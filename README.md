@@ -30,3 +30,62 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulohab&" alt="abdulohab" /></p>
 
+# Hi there! 👋 I'm Abdul Ohab
+
+I'm a Computer Science graduate and IT professional with a passion for full-stack development, system administration, and problem-solving. Currently working as an IT Support Engineer & Management at Byapon Youth Science Magazine.
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
+## 🚀 Featured Projects
+
+### Byapon Youth Magazine Website (In Development)
+- Leading the development of a magazine blog system with Q&A platform
+- Implementing user submission workflow with admin approval
+- Tech stack: Laravel, Livewire, Tailwind CSS, MySQL
+
+### Bangladesh Innovative Society Website
+- Developed comprehensive digital platform for event management
+- Features: Complete registration system, automated email notifications
+- Tech stack: Laravel, Tailwind CSS, MySQL, cPanel
+
+### Company Branch Mapping System
+- Interactive Bangladesh map visualization for company branches
+- District-wise branch locations and employee information dashboard
+- Tech stack: Laravel, JavaScript, MySQL, Tailwind CSS
+
+### Office Management Suite
+- Excel-based comprehensive office management system
+- Features: Automated accounting, inventory tracking, report generation
+- Tech stack: Microsoft Excel, Google Sheets, Apps Script
+
+## 🎯 Achievements
+
+- Solved 700+ problems across various competitive programming platforms (Codeforces, Codechef, UVa, Atcoder)
+- Participated in ICPC Dhaka Regional Preliminaries
+- Conducted research on Generative Adversarial Networks (GANs)
+- Published multiple scientific articles in Byapon Youth Science Magazine
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/md-abdul-ohab)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulohb059@gmail.com)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&theme=radical)
+
+---
+⭐️ From [AbdulOhab](https://github.com/AbdulOhab)
