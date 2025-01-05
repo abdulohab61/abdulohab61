@@ -151,103 +151,52 @@ I'm a Computer Science graduate and IT professional currently serving as an IT S
 </div>
 
 ---
+----------------------------------------------------------------------------------------------------------------------------
+# Hi there! 👋 I'm Abdul Ohab
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulOhab&color=2bbc8a" alt="Profile Views" />
-  <h4>💝 Thank you for visiting my profile! 💝</h4>
-</div>
+I'm a Computer Science graduate and IT professional with a passion for full-stack development, system administration, and problem-solving. Currently working as an IT Support Engineer & Management at Byapon Youth Science Magazine.
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Lang-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=tailwind-css&logoColor=white&color=2bbc8a)
 
-# <div align="center">👨‍💻 Md. Abdul Ohab Sarker</div>
+## 🛠️ Development & Tools
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-CCNA-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-VPS-informational?style=flat&logo=cloud&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VM-VirtualMachine-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SEO-Tools-informational?style=flat&logo=google&logoColor=white&color=2bbc8a)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BBB8A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Support+Engineer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
-</div>
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/md-abdul-ohab)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:abdulohb059@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/AbdulOhab)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/yourusername)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/yourusername)
 
-<div align="center">
-  <a href="https://www.linkedin.com/md-abdul-ohab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:abdulohb059@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&theme=radical)
 
-## About Me 🚀
-
-I'm a Computer Science graduate and IT professional currently serving as an IT Support Engineer at Byapon Youth Science Magazine. My journey in technology is driven by a passion for full-stack development, system administration, and algorithmic problem-solving. With a strong foundation in competitive programming and a keen interest in emerging technologies, I strive to create efficient and innovative solutions.
-
-## Technical Arsenal 🛠️
-
-<div align="center">
-
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=livewire&logoColor=white)
-
-### Frontend Development
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
-### Cloud & Virtualization
-![VM](https://img.shields.io/badge/Virtual_Machine-183A61?style=for-the-badge&logo=vmware&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=server&logoColor=white)
-
-### CMS & SEO
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
-
-### Office Tools
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
-## Achievements & Expertise 🏆
-
-- 🎯 Solved 700+ algorithmic problems on competitive programming platforms
-- 🌟 Published multiple scientific articles in Byapon Youth Science Magazine
-- 🔬 Research experience in Generative Adversarial Networks (GANs)
-- 🏅 Participated in ICPC Dhaka Regional Preliminaries
-- 💻 Expertise in full-stack web development and system administration
-
-## GitHub Analytics ⚡
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulOhab&theme=tokyonight&column=7" />
-</div>
+## 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/yourusername)
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yourusername)
+[![AtCoder](https://img.shields.io/badge/-AtCoder-222222?style=flat&logo=AtCoder&logoColor=white)](https://atcoder.jp/users/yourusername)
+[![UVa](https://img.shields.io/badge/-UVa-blue?style=flat&logo=CodeForces&logoColor=white)](https://uhunt.onlinejudge.org/id/yourusername)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulOhab&color=2bbc8a" alt="Profile Views" />
-  <h4>💝 Thank you for visiting my profile! 💝</h4>
-</div>
+⭐️ From [AbdulOhab](https://github.com/AbdulOhab)
