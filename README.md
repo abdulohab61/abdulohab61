@@ -156,3 +156,98 @@ I'm a Computer Science graduate and IT professional currently serving as an IT S
   <img src="https://komarev.com/ghpvc/?username=AbdulOhab&color=2bbc8a" alt="Profile Views" />
   <h4>💝 Thank you for visiting my profile! 💝</h4>
 </div>
+
+
+# <div align="center">👨‍💻 Md. Abdul Ohab Sarker</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BBB8A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Support+Engineer;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/md-abdul-ohab">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulohb059@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+## About Me 🚀
+
+I'm a Computer Science graduate and IT professional currently serving as an IT Support Engineer at Byapon Youth Science Magazine. My journey in technology is driven by a passion for full-stack development, system administration, and algorithmic problem-solving. With a strong foundation in competitive programming and a keen interest in emerging technologies, I strive to create efficient and innovative solutions.
+
+## Technical Arsenal 🛠️
+
+<div align="center">
+
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=livewire&logoColor=white)
+
+### Frontend Development
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database Management
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+
+### Cloud & Virtualization
+![VM](https://img.shields.io/badge/Virtual_Machine-183A61?style=for-the-badge&logo=vmware&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge&logo=server&logoColor=white)
+
+### CMS & SEO
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
+
+### Office Tools
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+## Achievements & Expertise 🏆
+
+- 🎯 Solved 700+ algorithmic problems on competitive programming platforms
+- 🌟 Published multiple scientific articles in Byapon Youth Science Magazine
+- 🔬 Research experience in Generative Adversarial Networks (GANs)
+- 🏅 Participated in ICPC Dhaka Regional Preliminaries
+- 💻 Expertise in full-stack web development and system administration
+
+## GitHub Analytics ⚡
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulOhab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulOhab&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulOhab&theme=tokyonight&column=7" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdulOhab&color=2bbc8a" alt="Profile Views" />
+  <h4>💝 Thank you for visiting my profile! 💝</h4>
+</div>
